@@ -1,0 +1,56 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+.form-style {
+    width: 30%;
+    margin: 25px auto;
+}
+
+.form-heading {
+    text-align: center;
+}
+
+#creation {
+    text-align: right;
+}
+
+#comm-edit {
+    border-left: 5px solid #ffbb33; 
+    margin-top: 15px;
+}
+
+#creator-icon {
+    color: orange;
+}
+
+#guest-icon {
+    color: grey;
+}
+
+#add-comment {
+    border-left: 5px solid #00C851;
+}
+
+#grids {
+    display:flex; 
+    flex-wrap: wrap;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
